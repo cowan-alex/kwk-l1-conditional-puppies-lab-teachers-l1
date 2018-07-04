@@ -28,7 +28,7 @@ def some_puppies(num, maximum)
   if num % 2 <=3
     return "Good job, Rachel!"
   else
-    return "Get back to your puppy goals."
+    return "Get back to your animal goals!"
   end
 end
 
