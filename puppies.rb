@@ -42,7 +42,7 @@ def new_animal(puppies, cats)
   if cats == 0 
     return "Good job, Rachel!"
   end
-  if puppies > 0 && cats > 0 
+  if puppies >= 1 && cats >=1
     return "Get back to your animal goals!"
   end
 end
