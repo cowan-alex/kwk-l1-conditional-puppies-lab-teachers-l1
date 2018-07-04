@@ -13,9 +13,9 @@ end
 def less_puppies(num)
   if num < 3
     return "Good job, Rachel!"
-  elsif num = 3
+  if num = 3
     return "Slow down."
-  else num > 3
+  if num > 3
     return "Get back to your animal goals."
   end
 end
