@@ -44,4 +44,5 @@ def new_animal(puppies, cats)
   end
   if puppies > 0 && cats > 0 
     return "Get back to your animal goals!"
+  end
 end
